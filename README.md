@@ -6,3 +6,7 @@ This repository defines a [custom software image](https://doc.cocalc.com/softwar
 
 * [Psi4](http://psicode.org/)
 * [Qiskit](https://qiskit.org/)
+
+## Links
+
+* https://github.com/psi4/psi4numpy
