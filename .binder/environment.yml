@@ -12,6 +12,7 @@ dependencies:
   - matplotlib
   - scipy
   - sympy
+  - "pip>=19"
   - pip:
     - qiskit
     - yapf
