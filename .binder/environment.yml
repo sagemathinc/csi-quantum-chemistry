@@ -1,6 +1,7 @@
 name: p4env37
 channels:
   - psi4/label/dev
+  - conda-forge
   - defaults
 dependencies:
   - python=3.7
@@ -12,8 +13,10 @@ dependencies:
   - matplotlib
   - scipy
   - sympy
+  - pandas
+  - altair
+  - tqdm
+  - yapf
   - "pip>=19"
   - pip:
     - qiskit
-    - yapf
-    - tqdm
