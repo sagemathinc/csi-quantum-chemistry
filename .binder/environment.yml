@@ -20,3 +20,4 @@ dependencies:
   - "pip>=19"
   - pip:
     - qiskit
+    - pyscf
